@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://data.nantesmetropole.fr/pages/home/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/city-nantes-open-data-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/city-nantes-open-data-domain-security.yml
   - type: Website
     url: https://data.nantesmetropole.fr/pages/home/
   - type: PublicAPIsListing
