@@ -39,7 +39,6 @@ apis:
   - name: City, Nantes Open Data
     description: "Nantes(FR) City Open Data"
     humanURL: https://data.nantesmetropole.fr/pages/home/
-    baseURL: https://data.nantesmetropole.fr/pages/home/
     tags:
       - Government
     properties:
